@@ -18,7 +18,7 @@ Further steps, Outlook on the innovative to-be concept
 **To be state includes**
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Organisational Restructuring,
-Balance Scorecard,
+Balance Scorecard, Definition of KPIs
 Strategy Maps,
 Five Principles of Strategy Focussed Organisation,
 Digital Transformation,
