@@ -1,4 +1,4 @@
-**As is analysis and To be state for company Elcoga**
+**As is analysis and To be state for company ElCoGa**
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 The project identifies weaknesses across ElCoGa's inquiry, order, procurement, production, and logistics processes that could be optimized.
 
