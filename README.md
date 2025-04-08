@@ -2,27 +2,28 @@
 
 **As is analysis includes**
 
-Strategy
-Competitors
-Elcoga Profile
-Value chain
-Business processes 
-Organisational chart
-IT
-Quantitative analyse
-Weak points
-Quick wins
-Short term actions
+Strategy,
+Competitors,
+Elcoga Profile,
+Value chain,
+Business processes, 
+Organisational chart,
+IT,
+Quantitative analyse,
+Weak points,
+Quick wins,
+Short term actions,
 Further steps, outlook on the innovative to-be concept
 
 **To be state includes**
 
-Balance Scorecard 
-Strategy Maps
-Five Principles of Strategy Focussed Organisation
-Digital Transformation
-Gantt Chart for Implementation
-Cost Benefit Analysis
+Organisational Restructuring,
+Balance Scorecard,
+Strategy Maps,
+Five Principles of Strategy Focussed Organisation,
+Digital Transformation,
+Gantt Chart for Implementation,
+Cost Benefit Analysis,
 Monitoring
 
 
