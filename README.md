@@ -26,9 +26,9 @@ Gantt Chart for Implementation,
 Cost Benefit Analysis,
 Monitoring
 
- **Quick overview of to-be **
+ **Quick overview of to-be**
  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-** Balance Scorecard**
+**Balance Scorecard**
  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <img width="496" alt="image" src="https://github.com/user-attachments/assets/74afe664-2e27-4be6-95c8-9a927569614e" />
 
