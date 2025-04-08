@@ -13,7 +13,7 @@ Quantitative analyse,
 Weak points,
 Quick wins,
 Short term actions,
-Further steps, outlook on the innovative to-be concept
+Further steps, Outlook on the innovative to-be concept
 
 **To be state includes**
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
