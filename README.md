@@ -13,7 +13,7 @@ Business processes,
 Organisational chart,
 IT,
 Quantitative analyse,
-Weak points, SWOT Analysis
+Weak points, SWOT Analysis,
 Quick wins,
 Short term actions,
 Further steps, Outlook on the innovative to-be concept
