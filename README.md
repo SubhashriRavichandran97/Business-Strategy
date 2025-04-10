@@ -6,14 +6,14 @@ The project identifies weaknesses across ElCoGa's inquiry, order, procurement, p
 **As is analysis includes**
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Strategy,
-Competitor Analysis,
-Elcoga Profile,
+Competitor analysis,
+Elcoga profile,
 Value chain,
 Business processes, 
 Organisational chart,
 IT,
-Quantitative analyse,
-Weak points, SWOT Analysis,
+Quantitative analysis,
+Weak points, SWOT analysis,
 Quick wins,
 Short term actions,
 Further steps, Outlook on the innovative to-be concept
